@@ -1,0 +1,30 @@
+C is which type of programming language ?
+Procedural language
+Object Oriented Language
+Assembly language
+Scripting language
+a
+Who is the father of C language
+Issac Newton
+Albert Ienstine
+Dennis Ritchie
+Sujata Jadhav
+c
+What is the datatyoe which can hold a character ?
+int
+float
+char
+double
+c
+Which of the following is NOT a valid vaiable name in C ?
+_variableName
+myVariable
+1stVariable
+variable_1
+c
+What is the size of an integer variable in C ?
+1 byte
+4 bytes
+8 bytes
+16 bytes
+b
