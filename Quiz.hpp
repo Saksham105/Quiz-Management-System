@@ -32,7 +32,7 @@ public:
 class C_Quiz : public Quiz {
     char fileName[50];
 public:
-    explicit C_Quiz(const char *);
+    explicit C_Quiz(const char *); // explicit prevents from implicit type conversion.
     void setQuiz() override;
     void startQuiz() override;
     void eraseQuizQuestions() override;
@@ -42,7 +42,7 @@ public:
 class Cpp_Quiz : public Quiz {
     char fileName[50];
 public:
-    explicit Cpp_Quiz(const char *);
+    explicit Cpp_Quiz(const char *); // explicit prevents from implicit type conversion.
     void setQuiz() override;
     void startQuiz() override;
     void eraseQuizQuestions() override;
@@ -52,7 +52,7 @@ public:
 class DSA_Quiz : public Quiz {
     char fileName[50];
 public:
-    explicit DSA_Quiz(const char *);
+    explicit DSA_Quiz(const char *); // explicit prevents from implicit type conversion.
     void setQuiz() override;
     void startQuiz() override;
     void eraseQuizQuestions() override;

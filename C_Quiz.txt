@@ -1,30 +1,30 @@
-C is which type of programming language ?
-Procedural language
-Object Oriented Language
-Assembly language
-Scripting language
+What is the output of the following code: int x = 5; printf("%d", x++);
+5
+6
+Undefined behavior
+Compilation error
 a
-Who is the father of C language
-Issac Newton
-Albert Ienstine
-Dennis Ritchie
-Sujata Jadhav
+Which of the following is not a valid storage class in C?
+extern
+static
+private
+register
 c
-What is the datatyoe which can hold a character ?
-int
-float
-char
-double
-c
-Which of the following is NOT a valid vaiable name in C ?
-_variableName
-myVariable
-1stVariable
-variable_1
-c
-What is the size of an integer variable in C ?
-1 byte
-4 bytes
-8 bytes
-16 bytes
+Which operator in C is used for dereferencing a pointer?
+&
+*
+->
+.
 b
+Which header file must you include to use the malloc() function?
+<stdio.h>
+<stdlib.h>
+<string.h>
+<math.h>
+b
+What is the size of int in most 64-bit systems?
+A. 1 byte
+B. 2 bytes
+C. 4 bytes
+D. 8 bytes
+c

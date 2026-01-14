@@ -1,0 +1,30 @@
+Which operator cannot be overloaded in C++?
++ (addition operator)
+= (assignment operator)
+:: (scope resolution operator)
+() (parenthisis <function call operator>)
+c
+Which concept allows a single function name to perform different tasks depending on the types or number of arguments passed?
+Encapsulation
+Inheritance
+Polymorphism (Method Overloading)
+Abstraction
+c
+Which of the following is the correct syntax for a single-line comment in C++?
+/* Comment */
+// Comment
+<!-- Comment -->
+# Comment
+b
+Which of the following is not a type of constructor in C++?
+Default constructor
+Parameterized constructor
+Copy constructor
+Friend constructor
+d
+Which operator is used to access the member functions and variables of a class through a pointer in C++?
+-> (arrow operator)
+. (dot operator)
+:: (scope resolution operator)
+& (address-of operator)
+a
